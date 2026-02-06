@@ -1,3 +1,6 @@
 .idea
 .gitattributes
 .DS_Store
+test.py
+Pipfile
+Pipfile.lock
